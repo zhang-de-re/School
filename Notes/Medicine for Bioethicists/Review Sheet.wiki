@@ -1,0 +1,399 @@
+ACE - angiotensin-converting enzyme
+AIDS - acquired immunodeficiency syndrome
+BPH - benign prostatic hypertrophy
+BUN - blood urea nitrogen
+CABG - coronary artery bypass graft
+CAD - coronary artery disease
+CBC - complete blood count
+CF - cystic fibrosis
+CHF - congestive heart failure
+CKD - chronic kidney disease
+COPD - chronic obstructive pulmonary disease
+CPAP - continuous positive airway pressure
+CT - computed tomography
+CVA - cerebrovascular accident
+D&C - dilation and curettage
+DIC - disseminated intravascular coagulation
+DKA - diabetic ketoacidosis
+DM - diabetes mellitus
+DNA - deoxyribonucleic acid
+DOE - dyspnea on exertion
+DRE - digital rectal examination
+DT - delirium tremens
+DTR - deep tendon reflex
+DVT - deep vein thrombosis
+EBV - Epstein-Barr virus
+EEG - electroencephalography
+ELISA - enzyme-linked immunosorbent assay
+EMG - electromyography
+ESRD - end-stage renal disease
+ETOH - ethyl alcohol
+GERD - gastroesophageal reflux disease
+GVHD - graft-versus-host disease
+HAART - highly active antiretroviral therapy
+HEENT - head, ears, eyes, nose, throat
+Hgb - hemoglobin
+HIPAA - Health Insurance Portability and Accountability Act
+HPV - human papillomavirus
+HTN - hypertension
+LFT - liver function test
+LLQ - left lower quadrant
+LUQ - left upper quadrant
+LVAD - left ventricular assist device
+MCH - mean corpuscular hemoglobin
+MCHC - mean corpuscular hemoglobin concentration
+MCV - mean corpuscular volume
+MICU - medical intensive care unit
+MODS - multiple organ dysfunction syndrome
+MRI - magnetic resonance imaging
+MSW - medical social worker
+NICU - neonatal intensive care unit
+NKA - no known allergies
+NPO - nothing by mouth
+NSAID - nonsteroidal anti-inflammatory drug
+OSA - obstructive sleep apnea
+PALS - patient advice and liaison service
+PEEP - positive end-expiratory pressure
+PERRLA - pupils equal, round, reactive to light and accommodation
+PET - positron emission tomography
+PICU - pediatric intensive care unit
+REM - rapid eye movement
+ROS - review of symptoms
+RRR - regular rate and rhythm
+SAD - seasonal affective disorder
+SIDS - sudden infant death syndrome
+SOAP - subjective data, objective data, assessment, plan
+SOB - shortness of breath
+ROM - range of motion
+TENS - transcutaneous electrical nerve stimulator
+URI - upper respiratory infection
+UTI - urinary tract infection
+WNL = within normal limits
+
+
+cancerous - carcino
+clotting - thrombo
+cold - cryo
+drug - chemo
+eye - opthalmo
+head - cehpalo
+heart - cardio
+kidney - nephro, reno
+knowledge - gnoso
+nerve - neuro
+red - erythro
+time - chrono
+tumor - onco
+urinary bladder - cysto, vesico
+white - leuko
+across or through - trans
+after or behind - post
+against - anti
+back - postero, re, retro
+bad, painful, difficult, or abnormal - dys, mal
+before or forward - ante, pro, pros
+behind - post, postero, re, retro
+below, less than normal, or under - hypo, infra, sub
+beside, near, along, or to the side of - para
+between - inter
+birth - nati
+change or beyond - meta
+complete or through - dia
+development or nourishment - tropho
+excessive, more than normal, or too much - hyper
+fast - tachy
+formation, growth, or development - plaso
+gland - adeno
+half - hemi
+many or much - poly
+new - neo
+no or not - a, an
+out or outside - ec, ecto, ex, exo, extra
+self - aut
+side - latero
+slow - brady
+surrounding - peri
+to hold back - ischo
+toward or near - ad
+up or apart - ana
+with or together - con, syn, sym
+within - en, endo, intra
+
+blood vessel - angio, vaso, vasculo
+joint - arthro
+plaque - arthero
+vein - phlebo, veno
+artery - arterio
+cartilage - chondro
+death of cells - necro
+disease - noso, pathy
+muscle - musculo, myoso, myo
+sound - sono
+sugar - glyco
+abdomen - abdomino, laparo
+blood - hemo, hemato
+brain - encephalo
+bronchial tube - broncho
+coccyx - coccygo
+colon - colo, colono
+ear - auro, oto
+esophagus - esophago
+fallopian tube - salpingo
+flesh - sarco
+gallbladder - cholecysto
+groin - inguino
+liver - hepato
+loin - lumbo
+lungs - pneumo, pneumono, pulmono
+membranes around the brain and spinal cord - meningo
+mind - psycho, phreno
+nose - naso, rhino
+ovary - oophoro, ovario
+pelvis - pelvo
+ribs - costo
+sac of fluid surrounding the embryo - amnio
+shoulder blade - scapulo
+skin or surface tissue - demo, epithelio
+skull - cranio
+underarm - axillo
+uterus - hystero, metro, metrio, utero
+windpipe - tracheo
+wrist bones - carop
+breast - mammo, masto
+
+
+
+carino- cancer
+thrombo- clotting
+cry- cold
+chem- drug
+opthalm- eye
+cephal- head
+cardio- heart
+nephr- kidney
+ren- kidney
+gnos- knowledge
+neuro- nerves
+erythro- red
+chron- time
+onc- tumor
+cyst- urinary bladder
+leuk- white
+trans- through or across
+post- after or behind
+nat- birth
+meta- change
+dia- complete
+troph- development or nourishment
+hyper- excessive
+tachy- fast
+plas- formation, growth, or development
+aden- glads
+hemi- half
+poly- many
+neo- new
+a- not
+an- not
+ec- outside
+exo- outside
+aut- self
+later- side
+brady- side
+peri- surrounding
+isch- to hold back
+ad- toward or near
+ana- up or apart
+con- with
+endo- within
+intra- within
+vasul- blood vessel
+arthr- joint
+ather- plaque
+phleb- vein
+ateri- artery
+chondro- cartilage
+necr- death
+path- disease
+my- muscle
+son- sound
+glyc- sugar
+lapar- abdomen
+hem- blood
+hemat- blood
+encephal- brain
+bronch- bronchial tubes
+coccyg- coccyx
+col- colon
+ot- ear
+esophag- esophagus
+salping- fallopian tubes
+sarc- flesh
+cholecyst- gallbladder
+inguin- groin
+hepat- liver
+lumb- loin
+mening- meninges
+psych- mind
+rhin- nose
+oophor- ovary
+pelv- pelvis
+cost- ribs
+amni- amnion
+scapul- shoulder blades
+epitheli- skin or surface tissue
+cutane- skin
+crani- skull
+axil- armpit
+hyster- uterus
+trache- windpipe
+carp- wrist bones
+mamm- breast
+mast- breast
+pneumon- lung
+pulmon- lung
+
+
+binding or surgical fixation - desis
+cell - cyte
+dilation or expansion - ectasia, ectasis
+displacement - ectopia
+irrigation or washing - clysis
+one who - er
+to run - drome
+to separate - crit
+vomit - emesis
+abnormal condition - osis, iasis
+birth - partum
+blood condition - emia
+breathing - pnea
+condition - ia, ism
+cutting out - ectomy
+death - mortem
+enlargement - megaly
+formation - plasm
+hardening - sclerosis
+inflammation - itis
+opening - stomy
+pain - algia
+pertaining to - al, ic, ar, ary
+pressure - tension
+process of cutting into - tomy
+process of visual examination - scopy
+protein - globin
+record - gram
+separation, breakdown, or destruction - lysis
+specialist - logist
+state of - sis
+study of - logy
+to eat or swallow - phagia
+to fall or slide - lapse
+to send - mission
+to speak - phasia
+to stand, place, stop, or control - stasis
+to view - opsy
+tumor or mass - oma
+surgical procedure to remove fluid - centesis
+an instrument to visually examine - scope
+surgical repair or correction - plasty
+
+
+-desis : surgical fixation
+-cyte : cell
+-ectasis: dilation or expansion
+-ectopia: dilation or expansion
+-clysis: washing
+-er: one who
+-drome: to run
+-crit: to separate
+-emesis: vomit
+-osis: abnormal condition
+-iasis: abnormal condition
+-partum: birth
+-emia: blood condition
+-pnea: breathing
+-ia: condition
+-ism: condition
+-ectomy: uctting out
+-mortem: death
+-megaly: enlargement
+-plasm: formation
+-sclerosis: hardening
+-itis: inflammation
+-stomy: opening
+-algia: pain
+-al: pertaining to
+-ic: pertaining to
+-ar: pertaining to
+-ary: pertaining to
+-tension: pressure
+-tomy: process of cutting into
+-scopy: process of visual examination
+-globin: protein
+-gram: record
+-lysis: separation, breakdown, or destruction
+-logist: specialist
+-sis: state of
+-logy: study of
+-phagia: to eat or swallow
+-lapse: to fall or slide
+-misison: to send
+phasia: to speak
+-statis: to stand, place, stop, or control
+-opsy: to view
+-oma: tumor or mass
+-centesis: surgical procedure to remove fluid
+-scope: instrument to visually examine
+-plasty: surgical repair or correction
+
+
+
+elevated levels of this antigen are associated with prostatic enlargement and
+prostate cancer: prostate-specific antigen
+
+what body system is composed of glands and sends chemical messengers called
+hormones into the blood to act on other glads and organs: endocrine system
+
+what body system plays a central role in immunity: lymphatic system
+
+what condition results when the tissue from the inner lining of the uterus
+occurs abnormally in other pelvic or abdominal locations? endometriosis
+
+what condition, caused by the presence of an extra chromosome being present in
+all cells of the body, is characterized by mental retardation, flat face with
+short nose, slated eyes, broad hands and feet, stubby fingers, and a protruding
+lower lip? down's syndrome
+
+what condition, caused by the compression of the nerve leading to the hand, is
+characterized by symptoms including pain, tingling, burning, and numbness of the
+hand? carpal tunnel syndrome
+
+what disease has the symptom of polyuria and polydipsia? central diabetes
+insipidus
+
+what disease is characterized by exopthalmos, tachycardia, restlessness,
+insomnia, weight loss, and enlarged thyroid gland? Graves' disease
+
+what disease is characterized by the destruction of the myelin sheath on nerve
+cells in the central nervous system with replacement by plaques of sclerotic
+tissue? multiple sclerosis
+
+what do high levels of Bence Jones protein in the urine and serum indicate?
+multiple myeloma
+
+what does the hemoccult test screen for? colorectal cancer
+
+what glands are found on the back side of the thyroid gland? parathyroid gland
+
+what hormone is measured in either the blood or urine to indicate pregnancy?
+human chorionic gonadotropin
+
+what hormone is produced by the parathyroid glands? parathyroid hormone
+
+what hormone is produced by the testes? testosterone
+
+what hormone is produced by the thyroid gland? thyroid hormone
+
+what imaging technique creates images of the body using magnetic waves? magnetic
+resonance imaging
+
+
