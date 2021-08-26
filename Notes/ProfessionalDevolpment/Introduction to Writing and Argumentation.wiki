@@ -1,0 +1,64 @@
+=Introduction to Writing and Argumentation=
+CHCE Mentoring Session
+
+Thesis Development
+- Normative
+- Relevant (Connect it to real paper and actual patient care)
+- Original
+- Proper Scope (Can it be achieved in 25-30 pages)
+
+Types of Evidence
+- Empirical evidence
+- Testimonial/Expert evidence
+  - relying on the authority of a credible expert on the subject matter
+- Anecdotal evidence
+  - relying on one case of causal observation, usually relying heavily on the
+    rhetoric of storytelling
+  - use to support premises that aren't quite common knowledge and need a little
+    push
+- Analogical evidence
+  - relying on similarities between phenomena or cases to draw conclusions
+
+
+Ways to be original
+Negative Projects
+- The claim has never been challenged before
+- Your method of challenging is unique
+
+Positive Projects
+- Conclusion is original
+- Conclusion is familiar but way of getting there is original
+- New connections between familiar concepts/conclusions
+- Defend a familiar conclusion against new objections
+- New implications for a familiar conclusion
+
+Explain why these matter.
+Use the interdisciplinary qualities of the program to make new connections
+
+Proper Scope
+Premises should be _strong_ enough to entail the conclusion but _weak_ enough to
+be proven in the space and with the evidence that you have.
+
+Use qualifiers strategically
+
+Literature integration
+Integrate most _recent_ and most _important_ literature on the topic
+
+Know how you are using a particular reference:
+- Is it being used to establish relevance?
+- Is it being used to orient your argument?
+  - use literature review to show the gaps and carve out the relevance of your
+    argument
+- Is it supporting the truth of a premise?
+- Is it an objection to your argument?
+
+Know how to use the reference for the paper to be efficient in researching
+
+Goals of form
+Coherence
+Clarity
+Concision
+
+Thoughts on process
+Good outlines include verbs
+- think commit messages
