@@ -800,4 +800,282 @@ and phalanges)? metacarpal
 What is the term for the complete knowledge gained after testing and examining
 the patient? diagnosis
 
+What is the term for the condition characterizes by paleness of skin, weak and
+rapid pulse, and shallow breathing, that indicates a poor oxygen supply to
+tissues and insufficient return of blood to the heart? hypovolemic shock
 
+What is the term for the condition in which hyperinflation of air sacs with
+destruction of alveolar walls? emphysema
+
+What is the term for the condition in which the skin and other tissues have a
+yellow-orange color, and there are high levels of bilirubin in the bloodstream?
+jaundice
+
+What is the term for the condition of undescended testes? cryptorchidism
+
+What is the term for the decrease in bone density with thinning and weakening of
+bone? osteoporosis
+
+What is the term for the disease that involves the backflow of the contents of
+the stomach into the esophagus? gastroesophageal reflux disease
+
+What is the term for the disorder of the pancreas that causes an increase in
+blood glucose levels, involves some insulin deficiency and resistance of tissues
+to the action of insulin, and usually presents during adulthood? type 2 diabetes
+
+What is the term for the disorder of the pancreas that causes an increase in
+blood glucose levels, involves the complete deficiency of insulin in the body,
+and usually presents during childhood? type 1 diabetes
+
+What is the term for the disorder of the pancreas that causes an increase in
+blood glucose levels? hyperglycemia
+
+What is the term for the enlargement of the thyroid gland? goiter
+
+What is the term for the examination of the prostate gland with finger palpation
+through the rectum? digital rectum exam
+
+What is the term for the excessive secretion of hormone from a gland in front of
+the trachea in the neck? hyperthyroidism
+
+What is the term for the excision of a piece of backbone to relieve pressure on
+nerves from a herniating disk? laminectomy
+
+What is the term for the excision of lung tissue? pneumonectomy
+
+What is the term for the excision or resection of a kidney? nephrectomy
+
+What is the term for the glands that secrete hormones within the body? endocrine
+glands
+
+What is the term for the inability of the heart to pump its required amount of
+blood, leading to the accumulation of blood in the lungs? congestive heart
+failure
+
+What is the term for the incision of a vein? venotomy
+
+What is the term for the inflammation of a joint? arthritis
+
+What is the term for the inflammation or infection within the diverticula?
+diverticulitis
+
+What is the term for the inflammatory disease in which small nodules, or
+tubercles, form in lymph nodes and other organs? sarcoidosis
+
+What is the term for the loss of movement in any part of the body caused by a
+break in the connection between the nerve and muscle? paralysis
+
+What is the term for the lower portion of the uterus? cervix
+
+What is the term for the measurement of the rate at which red blood cells fall
+to the bottom of a test tube? (A high rate is associated with inflammatory
+diseases like rheumatoid arthritis) the sedimentation rate
+
+What is the term for the membrane surrounding the abdominal organs? peritoneum
+
+What is the term for the muscles that lie between the ribs? intercostals
+
+What is the term for the outer layer of skin? epidermis
+
+What is the term for the partial removal of the stomach? partial gastrectomy
+
+What is the term for the procedure in which a physician inserts a wooden spatula
+or cotton swab to take secretions from the cervix and vagina? pap smear
+
+What is the term for the procedure in which a tube is placed through the nose or
+mouth into the trachea to establish an airway during surgery and for placement
+on a respirator? endotracheal intubation
+
+What is the term for the procedure in which the innermost lining of an artery is
+surgically removed to remove fatty deposits and clots? endarterectomy
+
+What is the term for the procedure in which vessels are taken from a patient’s
+legs or chest and are connected to coronary arteries to make detours around
+blockages? coronary artery bypass surgery
+
+What is the term for the procedure of withdrawing fluid from a cavity or sac?
+paracentesis
+
+What is the term for the process in which cells increase in size (but not in
+number)? hypertrophy
+
+What is the term for the process of removing living tissue and viewing it under
+a microscope?  biopsy
+
+What is the term for the return of disease symptoms? relapse
+
+What is the term for the space below the abdominal cavity, containing the
+urinary bladder?  pelvic cavity
+
+What is the term for the space within the backbones containing the spinal cord?
+spinal cavity
+
+What is the term for the space within the skull, containing the brain? cranial
+cavity
+
+What is the term for the spread of a cancerous tumor from its original place to
+a secondary location in the body? metastasis
+
+What is the term for the study of the heart? cardiology
+
+What is the term for the surgical correction of the nose? rhinoplasty
+
+What is the term for the surgical fixation of an undescended testicle in a young
+male infant? orchidopexy
+
+What is the term for the test that shows the structure of organs using sound
+waves beyond the normal range of hearing? ultrasonography
+
+What is the term for the treatment of a cardiac arrhythmia by sending brief
+discharges of electricity across the chest?  cardioversion
+
+What is the term for the white outer part of the eyeball? sclera
+
+What is the term for the widening of the opening of the cervix and scraping of
+the lining of the uterus to remove tissue and stop prolonged or heavy bleeding?
+dialation and curettage
+
+What is the term that means pertaining to the head? cephalic
+
+What is the test in which a sample of plasma is tested for the presence of
+antibodies found in patients with systemic lupus erythematosis? antinuclear
+antibody test
+
+What large organ can be found in the right upper quadrant? liver
+
+What medical speciality deals with the treatment and management of pain and
+symptom relief, with emotional support for terminally ill patients?  pallative
+care
+
+What medical specialty treats eye disorders, both surgically and medically?
+opthalmologist
+
+What medical specialty treats kidney disorders? nephrology
+
+What muscle separates the abdominal and thoracic cavities? diaphragm
+
+What plane of the body divides the body into upper and lower portions? axial
+(transverse) plane
+
+What plane of the body divides the body or an organ into front (anterior) and
+back (posterior)? coronal (frontal) plane
+
+What plane of the body divides the body or an organ into right and left sides?
+saggital (lateral) plane
+
+What procedure is used to remove cerebrospinal fluid (CSF) for analysis? lumbar
+puncture
+
+What procedure is used to remove skin lesions, such as warts, with liquid
+nitrogen or carbon dioxide snow? cryosurgery
+
+What procedure is used to treat a ligament tear of the patella? surgical
+patellar tendon repair
+
+What procedure is used to treat an ovarian cyst? laparoscopy
+
+What procedure is used to treat coronary arteriosclerosis? angioplasty
+
+What procedure is used to treat pleural effusion? thoracentesis
+
+What procedure is used to treat renal failure? hemodialysis
+
+What procedure is used to treat uterine adenocarcinoma? hysterectomy
+
+What procedure would you use to diagnose epilepsy? electroencephalogram
+
+What procedure would you use to diagnose leukemia? bone marrow biopsy
+
+What procedure would you use to diagnose urinary bladder carcinoma? cystoscopy
+
+What procedure would you use to treat renal cell carcinoma? radical nephrectomy
+
+What quadrant is the spleen located in? upper left quadrant
+
+What syndrome is characterized by symptoms including chest pain, dyspnea,
+fatigue, and abnormal heart sounds (murmurs) heard on physical exam? myocardial
+infarction
+
+What syndrome, caused by a virus that damages lymphocytes, is characterized by
+symptoms including sever infections, malignancy (Kaposi sarcoma and lymphoma),
+fever, malaise, and gastrointestinal disturbances? HIV
+
+What syndrome, caused by bacterial infection in the vagina, is characterized by
+symptoms including high fever, vomiting, diarrhea, rash, hypotension, and
+shock? toxic shock syndrome
+
+What term mean's "sharp", "sudden" or "brief"? acute
+
+What term means "pertaining to the diaphragm"? diapragmatic
+
+What term means "pertaining to time"? chronic
+
+What term refers to having blood in the urine? hematuria
+
+What test is used to measure ventilation of the lungs using a spirometer?
+spirometry
+
+What test measures the amount of urea in the blood? blood urea nitrogen test
+
+What type of doctor administers agents for the loss of sensation?
+anesthesiologist
+
+What type of doctor diagnoses and treats malignant and benign tumors? oncologist
+
+What type of doctor diagnoses disease by analysis of cells? pathologist
+
+What type of doctor interprets x-rays, MRIs, and ultrasound images? radiologist
+
+What type of doctor performs surgery on bones, muscles, and joints? orthopedic
+surgeons
+
+What type of doctor performs surgery on chest organs? cardiothoracic surgeon
+
+What type of doctor performs surgery on the brain, spinal cord, and nerves?
+neurosurgeon
+
+What type of doctor performs surgery on the heart and blood vessels?
+cardiovascular surgeon
+
+What type of doctor performs surgery on the urinary tract? urologist
+
+What type of doctor provides comprehensive care to adults in an office or
+hospital? primary care physician
+
+What type of doctor treat joint and muscle disorders? rheumatologist
+
+What type of doctor treats blood disorders? hematologists
+
+What type of doctor treats disease caused by microorganisms? infectious disease
+doctor
+
+What type of doctor treats disease with high-energy radiation? radiation
+oncologist
+
+What type of doctor treats diseases of children? pediatrician
+
+What type of doctor treats diseases of old age? geriatricians
+
+What type of doctor treats ears, noses, and throats? otolarngologist
+
+What type of doctor treats eye disorders, both surgically and medically?
+Ophthalmologist
+
+What type of doctor treats heart disease? cardiologist
+
+What type of doctor treats lung diseases? pulmonologist
+
+What type of doctor treats mental disorders? psychiatrist
+
+What type of doctor treats nerve disorders? neurologist
+
+What type of doctor treats patients to restore function after illness?
+physiatrist
+
+What type of doctor treats pregnant women and delivers babies? obstetrician
+
+What type of doctor treats skin disorders? dermatologist
+
+What type of doctor treats stomach and intestinal disorders? gastroenterologist
+
+What types of viruses give rise to tumors? ebv, hbv, hiv, hcv, hhv, hpv, htlv-g1
