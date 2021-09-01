@@ -1,0 +1,61 @@
+== Lecture Notes 8/31 ==
+= Tech Ethics =
+
+pieces of technology: product of techne, tecno logic. tools shaping us, not just
+us putting intentions into tools
+
+metaphysical dimension: what is this tool
+epistemological dimension: how does it shape what i know
+
+we create machines to have their own automaticity, and insofar as that, they
+have their own intentions in a limited sense - we build into that - but as they
+become more sophisticated, they make more decisions for us.
+
+similar paper process to phil methods class
+
+email bishop for presentation preferences.
+
+stiegler what makes life worth living
+
+history of philosophy per bishop
+to know is to know causes
+our questions originate from what we know towards what we don't know and try to
+parse what we don't know in terms that we already know
+basic question, ultimately metaphysical questions
+who - formal cause, eidos, ideas form
+what - material
+how - efficient cause
+why -  final causes, purposes
+where - space
+when - time
+
+in ancient philosophy, each of basic questions integral to every thing
+over time, stopped thinking in these terms where all are operative are in the
+being of things
+starting with francis bacon
+final causes removed from knowledge
+hume
+cannot know forms, eidos
+left with the what and can move from what to how and infer formal cause and
+mathematically infer where when
+kant
+how can we know anything if we don't have empirical access to things
+transcendental idealism
+tries to get us to some kind of scientific knowledge - can't have noumena can
+have understanding of how we have concepts
+deontology/intention
+alleges our ethics of technology is deontological/about intention
+intention balanced what and how from the isolated individual communing with the
+good
+hegel
+immanitizes the transcendental field, saving from platoism by being aristotelian
+ideas have to be materialized
+take the unconcious in the material (law) and change it into thought (spirit)
+and build it back into reality
+
+kapp is hegelian
+hieromorphic (?)
+
+critiques of technology coming out of continental philosophy
+
+
