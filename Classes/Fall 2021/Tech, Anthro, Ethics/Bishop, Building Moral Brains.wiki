@@ -1,0 +1,366 @@
+== Building Moral Brains: Moral Bioenehancement and the Being of Technology ==
+== Jeffrey P. Bishop ==
+
+= BibTex =
+
+= Summary =
+
+= Notes =
+
+pp. 135
+By the 'moral imperative to morally bioenhance', they mean that we must
+intervene in the biology of the human animal in order to get it to behave
+morally, in order to prevent and/or address these existential threats. By
+deploying the idea of and existential threat, they emphasize the urgency for
+acting. There is a belief in permanent innovation.
+
+pp. 136
+As Peter-Paul Verbeek notes, we have always built morality into our
+technologies, which means to some extent, we offload some human agency onto our
+machines. Other thinkers like Bernard Stiegler see technological and human
+evolution intimately tied together with the exception that, with the speed of
+innovation, human cultures do not have time to adapt to technological changes.
+In other words, increasingly there is little in the way of coevolution so that
+the machines seem to be setting the pace and leading the way.
+
+pp. 136
+I will argue that through moral bioenhancement, the human being is becoming more
+and more an afterthought to the being of technology itself. Whereas human
+culture used to ride in the memory supports that technology enabled (epic
+poems, art, music, the printing press, the computer), now the human herself
+becomes the ray material and the vehicle on which and by which technology
+develops its own evolutionary process.
+
+pp. 138
+Yet, it is cognitive enhancement that has left some futurists fearful, not
+because they are afraid of cognitive enhancement as such, but because they fear
+that if we are cognitively but not morally enhanced, this might create the
+proverbial mad scientist.
+
+Ingmar Persson and Julian Savulescu, Unfit for the Future: The Need for Moral
+Enhancement
+
+pp. 138
+Persson and Savulescu have been the most articulate and prolific authors
+speaking to the potentially devastating consequences of cognitive enhancements
+in the absence of moral enhancement. As they have pointed out, it is far easier
+to harm than to benefit the world: far easier to create havoc than to put
+something in order; far easier to kill than to create life; far easier to
+destroy than to build. And so they argue that prior to any further cognitive
+enhancement, there should be some form of moral enhancement.
+
+pp. 138
+The story goes something like this. Human psychology evolved over thousands of
+years. Science and technology have dramatically changed our living conditions
+and resulted in large changes which have occurred on an accelerated evolutionary
+time-scale in terms of our knowledge about the world, and, with that knowledge,
+our ability to change the world. However, the time-scale for human psychological
+and moral evolution remains stuck at the rate of human reproduction. Given the
+grave danger to our way of life due to the mismatch in time scale for cognitive
+and technological evolution on the one hand and psychological and moral
+evolution on the other; given that cognitive enhancement places so much power in
+the hands of the primitive human apes that we are; and given that it is easier
+to destroy than to create, there is a moral imperative for humans to bioenhance
+human morality.
+
+pp. 138
+The two examples of threats to human civilization brought to the fore by Persson
+and Savulescu are weapons of mass destruction and climate change.
+
+pp. 139
+The typical approaches to shape the moral and political will in liberal
+democracies don't work for certain dangers in society. More robust (and
+oppressive) tactics that restrict civil liberties - for example, increasing
+surveillance - might work to curb the usage of weapons of mass destruction.
+However, this approach will not work for climate change.
+
+pp. 139
+Traditional methods of shaping the morality of society might prove useful, but
+the problem is urgent and evolution is slow; we need technological moral
+bioenhancement. Technology will be our salvation.
+
+pp. 139
+We can use 'pharmacological or genetics methods, like genetic selection and
+engineering', for moral bioenhancement...Moreover, these traditional means are
+inefficient and often prove ineffective. Thus, moral bioenhancement is really
+the only morally and technically viable solution, even though there can be no
+guarantee that it will prove successful.
+
+pp. 140
+The ideal scientific story of bad behaviour schematically goes like this: the
+polymorphic gene causes differences in brain structures and functions, which in
+turn cause immoral behavior.
+
+pp. 140
+While the research and engineering work that Persson and Savulescu call for
+seems novel and cutting-edge - would could be more futuristic? - their way of
+thinking is quite traditional in that it follows the typical way in which we
+think about the morality of technology and the being of technology. This typical
+way goes something like this: Humans are a natural kind, or unique sort of moral
+being. This being is living and has intentionality. Non-living objects, like
+rocks and mountains, are inert and change based on outside forces. Technology is
+just an inert object, radically different from human being, and much more like
+rocks, responding solely to human intentionality for its actions.
+
+pp. 141
+This way of thinking is typically humanist in its overall approach. It holds
+fast to the subject-object distinction, where the subject does all the work of
+intentionality and the object is merely passive in relation to the agency of the
+subject.
+
+Peter-Paul Verbeek, Moralizing Technology: Understanding and Designing the
+Morality of Things
+
+pp. 141
+But what is the relationship of moral enhancer machine to the subjectivity of
+the person who has had the moral enhancer placed in them? The simplistic moral
+calculus of the typical approach does not do justice to what is occurring in
+this situation.
+
+pp. 141
+So, let us look more carefully at Verbeek's approach. Verbeek notes that
+technology mediates 1) human action, 2) human perception, and 3) human moral
+subjectivity.
+
+pp. 141/142
+Furthermore, the technical object has tendencies which partially escape that
+original human intention. There is an automaticity built into these technical
+objects, which means that they remain moralized - aiming at certain moral ends -
+even outside human agency. In fact, sometimes technical tools end up being used
+in ways which their original makers might never have imagined. Thus, the typical
+humanist way of thinking - subject-object - is not adequate to what is going
+on...
+
+pp. 142
+Machines, then, are built to bring about imagined goods; tendencies and
+automaticites are built into them which reliably enact those moral intentions.
+This also means that they are not merely under the control of the human actor.
+
+pp. 142
+Technology not only mediates human action; it also mediates human perception.
+
+pp. 142
+This inherently moralized relationship may not have been imagined at all by the
+original designer of the technology. I will call this the 'technological
+imaginary'.
+
+pp. 142/143
+Finally, I have also intimated that the goods intended by the technology, and
+the rules created to keep the technology within bounded limits, recursively come
+to shape the moral subjectivity of the actor.
+
+pp. 143
+Human agency, intentionality, and freedom accompany these technological
+mediations, and if the human actor is going to act, her own intentionality,
+agency, and freedom must be asserted over the tool. Thus, with the extension of
+our moral perception and our moral action and with the way that human agency and
+freedom must be assorted over the technology, we see that in fact technology
+also shapes moral subjectivity.
+
+pp. 143
+With the extension of or moral perception we broaden the imagined ways in which
+we can act on this perception. And because the technical objects partially
+constitute the imagined ways in which we might act, the technology comes to
+shape the moral subjectivity and moral agency of the users of the technology.
+Put differently, technology mediates human subjectivity.
+
+pp. 143
+There is more going on than a moral agent exerting her will to enact her
+intentions; the machine recursively shapes how one imagines one's own moral
+agency. Technology mediates morality because it shapes our perception and our
+active intentions, and because it shapes how we imagine the realities on which
+we hope to act, it changes human moral subjectivity.
+
+pp. 143
+... Verbeek's position that technology attenuates humanism.
+
+pp. 143
+Thus, Verbeek concludes that the typical way that in which we perform ethical
+analysis of technology - subject to object - is too crude and simple-minded.
+Technological objects are not mere instruments awaiting a human agent to perform
+a utilitarian moral calculus, deciding whether to deploy the technology based on
+some notion of the greatest good for the greatest number of people. Verbeek does
+not believe that the intention of the actors governs a passive technical system.
+Rather, human-machine interactions are hybrid affairs.
+
+pp. 143
+But what should be make of the moral enhancer machine? This technology borders
+on what Verbeek calls cyborg intentionality, where the weight of the actions
+leans heavily on the side of the machine. Thus, we must turn to thinking not
+only about morality, but about the being of technology, and also about human
+being in light of technological being.
+
+pp. 143
+Whereas Verbeek focuses on the human actor side of man-machine relations,
+Stiegler brilliantly engages the question of human-machine engagement from the
+pole of the technology.
+
+pp. 144
+Stiegler begins hes book _Technics and Time_ by noting three movements in
+Western philosophy that shape our thinking about technology. First, he draws out
+attention to Plato's distinction between _epstime_ and _techne_ (and thus the
+distinction between philosophy and sophistry), which sets the epistemological
+trajectory of Western philosophy in motion, making _techne_ and the technical
+arts merely instrumental, even an instrument of sophistry. Second, there is
+Aristotle's distinction between natural and technical beings (natural beings
+having their own motion within themselves, and technical objects having their
+source of motion outside themselves); this distinction set the trajectory of
+Western thinking on ontology, such that technical objects are imagined as inert,
+relying solely on the intentions of the human animal for their motion. 'No form
+of "self-causality" animates technical beings'. Third, Larmarck introduced the
+distinction between living and non-living beings on the ground that living
+beings are organized in a manner distinct from non-living beings, even those
+that move mechanically.
+
+pp. 144
+For Stiegler, however, technical beings, technical systems, look a lot more like
+organized beings than like rocks.
+
+pp. 144
+The human is now in service to the machine, rather than the machine being at the
+service of the human. The human master turns out to be a slave to the machine's
+demands. Stiegler notes that the human was once thought to be the 'bearer of
+tools', but now the machines are the tool bearers and the human is the servant of
+the machine, or its assembler.
+
+pp. 144
+Thus, when looking at the technological objects of manufacturing, one can see in
+the microcosm how the machine dictates the activity of the human, who acts in a
+role supporting the technology.
+
+pp. 145
+Stiegler goes on to describe the relationship of science to invention and to
+innovation, and how invention and innovation are related to, and dependent upon,
+political economy.
+
+pp. 145
+For technological progress to be maintained, the economic and political
+arrangements within a country and among countries must be in place to create a
+stable environment for continued technological progress.
+
+pp. 145
+Invention and innovation, in turn, result in economic growth and economic growth
+leads to more investment and thus more technological progress. Countries intent
+on economic growth must words to create optimal conditions for the technological
+systems, by maintaining the stability of political, economic, and trade
+arrangements, or by modifying them in order to generate more invention and
+innovation. Not only are humans on call to support the technological machinery,
+but so is the political economic system.
+
+pp. 145
+Thus, Stiegler concludes: human activity in economics and politics is dictated
+by the activity of systemic technical innovation. It is with innovation that the
+temporal dimension is introduced, and for Stiegler time is technologically
+mediated. The technological system is not only an organized inorganic being, but
+it is a being that drives human evolution, setting the tenor of human being
+itself.
+
+pp. 146
+_Technics and Time_, volume I, argues that humans have always evolved with
+technology, that human nature is at least partially shaped by technology, which
+means it is shaped by culture. The human animal is by nature cultured.
+
+pp. 146
+Developing insights from Heidegger's _Being and Time_, Stiegler is critical that
+Heidegger did not go for enough in his analysis of time. With Heidegger,
+Stiegler agrees that time is not the interval between seconds - the tick, tick,
+tick of the clock. Phenomenologically, time is experienced faster or slower than
+the interval between seconds... Time is experienced differently based on
+contextual features.
+
+pp. 146
+One of those contextual features is one's history; indeed, it is a dominant
+contextual feature. One's history shapes how and what one experiences; what is
+more Dasein is thrown into and inherits a history not of its own making.
+
+pp. 146
+Drawing on the work of Leroi-Gourhan, Stiegler points to three inheritances that
+any particular human has. There is a genetic inheritance, certainly: a history
+embedded in the human's genome. In addition, the human has her own personal
+history stored in her hippocampus - the memory of her lived experience, her
+epigenetic inheritance. Yet, she has another history, an epiphylogentic history:
+this is the history that exists outside her, in memory supports such as books.
+
+pp. 146
+Technology transmits the epiphylogentic history.
+
+pp. 146
+Technology as memory support now shapes our own understanding of our past.
+Moreover, the technologically powerful tell the stories: they produce the
+movies, to shape what we remember about ourselves.
+
+pp. 147
+Technologies serve as memory supports for our history, our pasts, which in turn
+shape how we imagine our present and future lives. But it is not my own history,
+except insofar as it has been given to me through the memory support techniques.
+
+pp. 147
+In other word, artefacts, tools also influence human evolution in non-biological
+ways, or through epiphylogentic means. Cultural artefacts shape evolution.
+Technics - whether in the form a technical object, a book, perhaps, or a metered
+piece of poetry, or Facebook - enables human projects by giving them a starting
+point, and also a meaning and purpose to which the human aligns herself.
+
+pp. 147/148
+Yet, technics not only supports the history of human being, but also shapes its
+future. For Heidegger it is the future of my own death that focuses my attention
+on what is important...This contrasts with our future as technologically
+mediated, for technology exists on an endless trajectory: open-ended, perpetual
+innovation. Technology, according to Stiegler, also sets the horizon of the
+future: not by drawing human attention to the end of my time, but rather by
+deferring the end of time. Technology as a system establishes the temporal
+horizon through permanent innovation.
+
+pp. 148
+Moreover, Stiegler argues, because of the drive of permanent innovation in
+contemporary technology, we do not have time to build our cultures around a
+stable form of technology. Technics outruns ethnics. Stiegler notes that
+permanent innovation 'results in a divorce, if not between culture and technics,
+at least between the rhythms of cultural evolution and the rhythms of technical
+evolution'. There is no horizon of death to help us determine what is important.
+Things are moving so fast, advancing so fast, that we do not have time to
+accommodate them. They are growing faster than we can match them. With constant
+innovation, I do not think so much about my death as the end of time for me.
+Rather, with the idea of permanent innovation in technology, I might even live
+forever. Even if we today do not imagine living forever literally in this bodily
+existence, there are those who imagine that we will live forever in the large
+mainframe computer in the sky, in the silicon body of the computer. Technology
+is in a dynamic of permanent innovation, infinitely deferring my death.
+
+pp. 148
+As noted, the divorce between the rhythms of culture and rhythms of technics
+results in a cultural disorientation and a separation from human agency. The
+problem is that culture cannot catch up with technics. Technics moves faster
+than ethics, which Stiegler designates as the social and cultural form of being.
+
+pp. 148/149
+Persson and Savulescu have to hold that technology is designed with the moral
+intentions of human beings. They have to imagine that technology functions just
+as the typical ways of technological thinking assume; namely, that technology is
+designed by humans and deployed by humans.
+
+pp. 149
+Moreover, by radically transforming morality, Persson and Savulescu are
+radically transforming the being of technology, in fact subordinating human
+being to the being of technology. Technology, which had evolved slowly with
+humans, now comes more fully into the lead in relation to human evolution. The
+morality - moral intentionality - that is implanted into the human will come to
+lead the evolutionary process. Technology will determine the path of human 
+evolution.
+
+pp. 149
+This shift to technology taking the lead will radically transform what the human
+herself is. Elsewhere, I have called this drive for enhancement a Nietzschean
+power ontology, the idea that fundamental reality can be reduced to the
+concatenation of forces which animate all material motion, and materiality
+itself. This is to say that the non-agential will to power still has a modified
+form of agency, an agency found in the being of technology, which is also the
+coalescence of power aimed at its own telos. Thus, even Verbeek's hope for a
+non-humanist ethics, which is part of a hybrid affair, will become almost an
+a-humanist project, and perhaps even an antihuman project. The human will have
+no free relation to technology. Whatever the morality of the technology may be,
+the human will enact it. Whereas human culture used to ride in the memory
+supports that technology enabled, now the human herself becomes the raw material
+and the vehicle on which and by which technology will develop its own
+evolutionary process. The human will have become the material on which
+technological evolution - the non-agential will to power - rides.
