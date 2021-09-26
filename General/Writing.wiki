@@ -3,3 +3,5 @@
 = CHCE Lunches =
 
 [[Introduction to Writing and Argumentation]]
+
+[[Library Skills]]

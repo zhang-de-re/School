@@ -1,0 +1,37 @@
+== Clinical development of a recombinant ==
+
+= BibTex =
+
+= Summary =
+
+= Notes =
+
+pp. 4466
+The goal of any clinical development program is to evaluate vaccine safety,
+immunogenicty, and efficacy to support product licensure. The requirements for
+licensure typically include an adequate safety database, demonstration of
+manufacturing consistency, and demonstration of clinical benefit.
+
+pp. 4466
+Demonstration of clinical benefit is the challenging component for diseases such
+as Ebola where outbreaks are sporadic and difficult if not impossible to
+predict, and often in settings where there is not sufficient infrastructure to
+conduct a trial to regulatory standards.
+
+pp. 4468
+The study located cases of Ebola ("index cases") and then identified "rings" or
+clusters of subjects who came into contact with the "index case," or were
+contacts of those contacts. The rings were randomized to the immediate arm or
+the delayed arm where vaccination occurred on Day 0 or Day 21 respectively.
+
+pp. 4469
+In summary, strong preclinical data, including evidence of protection after a
+single immunization, postponed rVSVΔG-ZEBOV-GP to be an important vaccine
+candidate for development in response to the most recent Ebola outbreaks.
+
+pp. 4469
+Cumulatively the data from clinical trials are expected to provide a solid body
+of data supporting the safety and efficacy of the V920 vaccine and MSD is
+committed to move this vaccine forward to licensure as quickly as possible and
+to ensure vaccine availability for at-risk populations in advance of product
+licensure.

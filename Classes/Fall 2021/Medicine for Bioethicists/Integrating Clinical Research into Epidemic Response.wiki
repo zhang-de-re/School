@@ -6,4 +6,270 @@
 
 = Notes =
 
+Assessment of vaccine trials
 
+pp. 113
+However, as with the design of the therapeutic trials, there were also
+disagreements, competition , and infighting among the organizations that were
+carrying out the trials... Most notably, while there was consensus that clinical
+trial data would be necessary in order to support the licensure of any
+investigational vaccine candidate, there was little agreement concerning the
+preferred specific design or execution of the trials.
+
+pp. 114
+While determining the best designs for vaccine trials involved many of the same
+issues complicating the design of therapeutic trials---randomization, community
+perspectives, and access to the possible benefit---the vaccine trials also posed
+distinct ethical issues.
+
+pp. 114
+First, a person receiving a vaccine would presumably not be infected with Ebola
+and therefore not at immediate risk of death. Many of the arguments against
+randomized controlled trials (RCTs) for Ebola therapeutics centered on the
+ethics of giving an infected person a placebo or only standard of care when the
+risk of death was so high without an effective intervention. The risk of adverse
+effects from an unproven investigational agent were considered by some to be
+smaller than the risks of not providing one.
+
+pp. 114
+Second, research participants who have received a vaccine or a placebo may
+believe that they are protected from infection. They may not even consider the
+possibility that they may have received the placebo or that even if they got the
+vaccine it might not be effective, and, as a consequence, they may fail to take
+all proscribed safety precautions, such as the proper downing and doffing pf
+persona protective equipment while caring for Ebola patients.
+
+pp. 115
+However, some participants---particularly those from Medicins San Frontieres
+(MSF)---disagreed and argued that, as with therapeutic agents, any vaccine trial
+involving a placebo or active control arm would be unethical (Cohen and
+Kupferschmidt, 2019b)
+
+pp. 115
+Randomization was seen as particularly problematic for health care workers, who
+were at high risk of contracting Ebola.
+
+pp. 115
+... determining the choice of control arm proved to be one of the most
+contentious points in designing Ebola vaccine trials. There were three main
+options: a placebo control, an active vaccination (with a non-Ebola vaccine), or
+delayed vaccination.
+
+pp. 115
+A stepped-wedge trial rolls out the intervention to participants over time,
+either as individuals or in clusters. By the time the study ends, all
+participants will have received the intervention, but they will have received it
+in a random order and in some cases the intervention will have been delayed.
+
+pp. 119
+In an example of excellent communication, coordination, and a willingness to
+compromise between researchers and public health officials, the study took
+advantage of the public health contract training efforts implemented during the
+outbreak.
+
+pp. 119
+Ring vaccination is a measure used to control the spread of an infection that
+involves vaccinating individuals who are socially or geographically connected to
+a known case, thereby creating a protective "ring" of immunity around affected
+individuals to prevent further spread.
+
+pp. 122
+Not all of the scientists and ethicists involved in the conversations agreed
+with this reasoning, yet to many it appeared to represent an acceptable
+compromise between scientific rigor and the desire to offer the hoped for
+benefits of the vaccine to as many as possible.
+
+pp. 122
+The study continued to enroll additional participants who were all offered
+immediate immunization; the importance of this, going forward, meant that there
+was no longer a control arm in the trial. (Henao-Restrepo et al, 2016)
+
+pp. 122
+However, given that only 21 days passed between the administration of the
+vaccine to the immediate vaccination group and the delayed-vaccination control
+group, there had to be a high enough risk in order for the study to show results
+--- that is, if people in the delayed-vaccination group were not infected soon
+enough to develop symptoms of Ebola within the 21-day delay period, it would be
+difficult to show that the vaccine was effective.
+
+pp. 122
+The danger was that not enough events would occur within this window to permit
+an assessment of vaccine efficacy, the essential goal of the study.
+
+pp. 124
+The lack of a placebo and the lack of blinding also raise concerns of possible
+bias in the ascertainment of safety endpoints, which could have significantly
+influenced the data presented. Additionally, if the study team was convinced
+that the vaccine was effective, it might have been less intense to detect and
+report events in the clusters randomized to immediate vaccination.
+
+pp. 124
+The DSMB action was based on the emerging evidence from the trial that the
+vaccine was safe and effective as well as the reality that the numbers of new
+ring-defining index cases was rapidly decreasing, which led the DSMB to conclude
+that it "would be unethical to deny people access to this life-saving
+intervention when the interim analysis showed evidence that rVSV-ZEBOV is both
+safe and effective." (VF, 2015)
+
+pp. 124
+In the first publication the authors report, "The results of this interim
+analysis indicate that rVSV-ZEBOV might be highly efficacious and safe in
+preventing Ebola virus disease and is most likely effective at the population
+level when delivered during an Ebola outbreak via a ring vaccination strategy."
+(Henao-Restrepo et al, 2015, p. 857)
+
+pp. l25
+While the data indicate that this vaccine provides protection from Ebola, there
+are differing estimates of the vaccines efficacy depending on the analytical
+approach employed.
+
+pp. l25
+If all persons eligible for vaccination within each of the clusters were
+included in the analysis, consistent with the intention-to-treat principle, the
+trial was inconclusive (i.e., 7 of 3,212 eligible persons in immediate clusters
+with a primary endpoint versus 16 of 3,075 in delayed clusters who were eligible
+for vaccination and ascertainment of the primary endpoint, for a vaccine
+effectiveness of 65 percent, 95% confidence interval, -47-91%).
+
+pp. 125
+When an "on-treatment" analysis was applied to those in the immediate
+vaccination clusters who were actually vaccinated and this subset of
+participants was compared to all eligible in the delayed vaccination clusters,
+the trial results now showed statistically significant benefits...
+
+pp. 128
+Coverage in the press, however, focused on the statistically significant results
+from the "on-treatment" analyses, which demonstrated 100 percent vaccine
+efficacy.
+
+pp. 128
+However, which this "as-received" analysis is intended to measure vaccine
+efficacy, it is likely to be a biased estimate of vaccine efficacy, as discussed
+below. In contrast, the intention-to-treat analysis, which includes the entire
+"as-assigned" group, provides an unbiased estimate of efficacy; in this case,
+however, the estimate is substantially diluted due to the inclusion of those who
+did not receive the vaccine although this is likely more representative of
+overall clinical effectiveness.
+
+pp. 128
+We concur that, taken together, the results suggests that the vaccine most
+likely provides some protection to recipients---possibly "substantial
+protection," as stated in the final report. However, we remain uncertain about
+the magnitude of its efficacy, which could in reality be quite low or even zero,
+as the confidence limits around the unbiased estimate include zero.
+
+pp. 128/129
+The reason for this uncertainty is that the primary comparison reported by the
+investigators is no longer protected by randomization because those who accepted
+vaccination in the immediate clusters are being selected for inclusion
+post-randomization. The main potential---bu unmeasured---bias of this approach
+is that individuals who receive the vaccine may have had a lower chance of
+organization of infection (e.g., different risk of exposure to the virus) then
+those who were not immunized. If those who did not get the vaccine were more
+likely to be exposed, then by excluding them from analysis but not excluding a
+comparable subset from the group assigned to delayed vaccination we would bias
+our results in favor of the immediate vaccination group. This is why the primary
+analysis in any RCT, including a cluster-randomized RCT, is almost always
+intention to treat, following the "one randomized, always analyzed" dictum.
+(Hennekens et al., 1987)
+
+pp. 129
+Due to safety and logistical concerns no serologic data were collected during
+the conduct of the trial so no immunological correlate of protection would
+provide a benchmark, and other existing or newly designed vaccines could be
+compared with the product used in the current study.
+
+pp. 129
+It was not possible to compile longer-time safety data comparing the vaccinated
+and the control groups in the ring trial since all the control subjects were
+vaccinated.
+
+pp. 129
+The "on treatment" vaccine efficacy estimate of 100 percent has been widely
+reported, but the reports generally do not acknowledge the fact that no vaccine
+is---or ever likely will be---100 percent effective, whether because of such
+host factors as immunodeficiency states or immunogenetic based antigen
+unresponsiveness or because of extrinsic factors such as a very high infection
+inoculum size, which can overcome existing immunity. (CDC, n.d.)
+
+pp. 130
+Had the DSMB and the authors applied a more conservative interpolation of the
+preliminary results, along the lines of what this committee thinks the data
+demonstrates, and thereby continued to randomize all remaining clusters, the
+power to demonstrate benefit would have increased.
+
+pp. 130
+That aside, the high level of expected protection, based on the trial results,
+may make it more difficult to conduct a confirmatory controlled trial of
+sufficient size in the event of a future outbreak; we can expect that it will be
+considered unethical to deny the vaccine or delay its administration to any
+individuals who are at risk of infection.
+
+pp. 130
+Additional benefit and risk assessments are important for refining the
+indications for vaccine use during a future outbreak Ebola outbreak because the
+risk-benefit determination may differ for those at high risk (contacts, health
+care workers, burial teams) versus members of the general public who are at
+considerably lower risk.
+
+pp. 133
+Additionally, given the collection of routine blood analysis and placebo design,
+it allowed for easier detection of adverse effects of the vaccine. A downside,
+however, is the larger sample size required when including an overall lower-risk
+population.
+
+pp. 137
+There were several potential ethical issues with the trial, as acknowledged by
+the study staff (Widdowson et al. 2016). First, the widespread fear of Ebola
+could skew the risk-benefit calculation by health care and frontline workers and
+push them toward accepting a vaccine of unknown safety and efficacy. Second,
+participants were reimbursed for participation and received free health care,
+which could have induced some to enroll.
+
+pp. 139
+Conducting Phase 1 and 2 trials in countries not affected by the outbreak was
+thought to facilitate acceptance of longer trials in affected countries;
+however, given the persistent belief in the affected countries that foreign
+medical teams were possibly testing something dangerous it remained imperative
+that trial teams also focus on community engagement and communication of the
+clinical trial process.
+
+pp. 139
+The study designs selected were generally appropriate for the context and
+question being explored---for example, implementing ring vaccination trials for
+high-risk populations and individual RCTs for the general population at lower
+risk in order to more fully assess safety.
+
+pp. 140
+The differences in the study designs and the value of the information generated
+from each trial highlight the importance of collaboration in future trials. For
+example, if the ring trial had been the only one conducted during the outbreak,
+an unfortunate situation would have emerged; because of the initial suggestion
+of its high degree of efficacy equipoise could have been preemptively eliminated
+despite the estimate of protection from the intention-to-treat analysis being
+much lower. Additionally, the results from the ring vaccination trial provide
+limited safety data and no data on the duration of the immune response beyond 84
+days...
+
+pp. 140
+In the event of a future outbreak, given the practical constraints on the
+ground, it may be more strategic and easier in order to obtain initial
+information on investigational vaccines.
+
+pp. 141
+There are also different scenarios in which the course of the outbreak and
+interim trial results may influence the trial designs and, ultimately, vaccine
+use during an outbreak. For example, during an epidemic with a new pathogen in
+which the general population is at high risk of infection and a ring trial shows
+initial efficacy, it may be reasonable to forgo planning a placebo-controlled
+trial in order to vaccinate the entire population. Alternatively, it may be
+preferable to move quickly to implement a placebo-controlled trial as an
+epidemic begins to wane and it becomes clear that a ring trial may not give
+definitive answers.
+
+pp. 141
+*Conclusion 4-1* _If research during future epidemics is to be conducted in a
+more efficient and effective manner, funders and sponsors of research need to
+plan well in advance, ideally during an inter-epidemic period, to coordinate
+efforts more closely and must agree to initiate clinical research during an
+outbreak in concordance with an overall research agenda.

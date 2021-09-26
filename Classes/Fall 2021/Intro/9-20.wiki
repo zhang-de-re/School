@@ -1,0 +1,40 @@
+= Intro to philosophy =
+
+moral absolutism vs relativism -> scaffolding into Euthyphro
+
+in-class exercise:
+
+case 1: ice cream   case 2: time travel astronomer (heliocentric) case 3: aliens
+
+            case 1    case 2    case 3
+real
+disagreement n        y         y
+
+fact?       n         y         y
+
+known?/
+proven?     n         y         n
+
+Started class by asking two students what the best ice cream was. Then had them
+think-pair-share on three questions: real disagreement? Fact of the matter
+(world)? And known/proven? Then went on to do the same for two other cases: time
+traveling astronomer or heliocentrism and E.T. intelligence today.
+  Ragland trying to lead them into recognizing that we can be committed to facts
+  without knowing what the facts are (as well as the relativism stuff)
+  
+world vs mind
+fact vs appearance
+truth value vs knowledge or proof
+
+moral absolutism (realism, objectivism)
+
+there is some (at least one) _mind-independent_ _action-guiding_ moral principle
+  it can be general + applied differently in different situations
+
+Moral Relativism (Subjectivism)
+  different scopes
+    - individual---my beliefs create what's right/wrong for me
+    - cultural---cultural consensus creates moral standards for that culture
+    - (divine command theory)
+  beliefs creating moral reality
+  _all_ moral facts are socially constructed

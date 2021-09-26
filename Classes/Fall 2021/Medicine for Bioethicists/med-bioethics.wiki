@@ -5,10 +5,21 @@ Fall 2021
 
 [[Integrating Clinical Research into Epidemic Response]]
 
+[[Lancet Ebola vaccine criticism]]
+
+[[Clinical development of a recombinant]]
+
+[[WHO supports Ebola vaccination]]
+
+[[Phase 1 Trials of rVSV Ebola Vaccine]]
+
+[[Determinants of Antibody Persistance...]]
+
 =Lecture Notes=
 
 [[9-9]]
 
+[[9-23]]
 
 =Medical Terminology Notes=
     [[Review Sheet]]

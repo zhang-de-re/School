@@ -1,0 +1,14 @@
+Library Skills
+
+ebscohost has own philosophy database (Philosopher's Index)
+nexis uni for law
+  order for newest to see newest+summary of precedent
+  shepherds feature keeps track of all the cases citing a statute or article
+    use "AND NOT" to filter out search (e.g., to search rico statutes and not
+    puerto rico)
+    cite all reporters out of courtesy
+      SLU legal librarian: lynn.harthe@slu.deu
+      when searching, do not think of just one term but also group synonyms
+      put terms of art in quotations
+      
+      

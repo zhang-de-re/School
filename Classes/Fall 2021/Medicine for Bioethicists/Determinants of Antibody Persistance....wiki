@@ -1,0 +1,24 @@
+Determinants of antibody persistance...
+
+pp. 1
+The recombinant vesicular stomatis virus (rVSV) vaccine expressing the Zaire
+Ebola virus (ZEBOV) glycoprotein is efficacious in the weeks following
+single-dose injection, but duration of immunity is unknown.
+
+pp. 1
+Antibody responses to single-dose rVSV-ZEBOV vaccination are sustained across
+dose ranges and settings, a key criterion in countries wehre booster
+vaccinations would be impractical.
+
+pp. 2
+Despite the effectiveness of the rVSV-ZEBOV vaccine in the field, trends of
+vaccine-induced proteciton against Ebola virus disease remain undefined. The
+WHO-sponsored Guinea ring vaccination trial documenting field efficacy did not
+harvest blood for immunogenecity analyses, and the mechanisms conferring
+protection in non-human primate models have not been confirmed to be the same in
+man.
+
+pp. 3
+All Geneva volunteers provided written informed consent before enrolment in this
+follow-up observational study. The Kilifi and Lambarene volunteers had given
+written informed consent to be included in their respective original trials.

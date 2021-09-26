@@ -1,0 +1,23 @@
+== Phase 1 trails of rVSV Ebola vaccine ==
+
+= BibTex =
+
+= Summary =
+
+= Notes =
+
+pp. 2
+In these studies, rVSV-ZEBOV was reactogenic but immunogenic after a single dose
+and warrants further evaluation for safety and efficacy.
+
+pp. 3
+Thereafter, participants who were planning to deploy to Ebola-affected regions
+were randomly assigned in a 1:1 ration in a double-blind fashion to receive a
+vaccine dose of either 10 million or 50 million PFU, whereas those who where not
+planning to deploy to such regions were randomly assigned in a 1:1:1 ratio to
+receive either one of the vaccine doses or placebo.
+
+pp. 9
+It is a replication-competent chimeric virus for which human-safety data were
+limited to a single postexposure case report21 at the time of the initiation of
+these studies.
