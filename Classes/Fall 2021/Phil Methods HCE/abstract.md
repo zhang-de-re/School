@@ -1,5 +1,6 @@
 ###### Abstract 
 ###### Equipoise or Evidentialism: Ethics of Uncertainty in RCTs
+###### Alexander Zhang
 
 In clinical research, the principle of clinical equipoise is significant for
 providing the moral framework upon which randomized clinical trials are deemed
