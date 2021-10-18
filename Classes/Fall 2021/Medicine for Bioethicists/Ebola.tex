@@ -1,0 +1,183 @@
+\documentclass[letterpaper,notitlepage,12pt]{article}
+\usepackage[
+  letterpaper,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in]
+{geometry}
+\usepackage[backend=biber]{biblatex-chicago}
+\usepackage{csquotes}
+%\addbibresource{references.bib}
+\usepackage{setspace}
+
+\title{Ebola, Equipoise, and Evidentialism}
+\author{Alexander Zhang}
+
+\doublespacing
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+At time of writing, the Covid-19 pandemic has just surpassed the death toll of
+the 1918 Spanish flu pandemic.
+I am struggling to conceive that I have lived in, if not through, the deadliest
+disease vent in American history.
+It's not worth belaboring the point, but in a time of crisis, it is also a time
+when what we choose to believe has become intensely morally and politically
+charged.
+% ^ that needs to be rephrased
+On a backdrop of conspiracy theory---what do you mean there are germ theory
+deniers?---we ought to pose the question "What are the ethics of belief itself?"
+
+This paper takes a small step in that direction by reflecting on the response to
+the West African Ebola virus epidemic: specifically, the Ebola \c{c}a
+Suffit-Guinea ring vaccination trial.
+The trial and distribution of the rVSV-ZEBOV vaccine was hailed in the press as
+a triumph of modern science and international cooperation.
+However, in looking at its history, it is also noteworthy because it was also a
+trial of our ethical concepts regarding the permissibility of randomized
+clinical trials, that empirical process by which we are supposed to set our
+credences.
+In the following, I will discuss how two moral principles---clinical equipoise
+and the fiduciary obligation of care---appear to have been applied in contention
+to the trial design but were ultimately both not satisfied.
+In place of those two positions, I will propose a third---evidentialism---and
+sketch out two considerations from that standpoint which argue for not just the
+permissibility of randomized clinical trials but the moral and epistemic virtue
+in conducting them.
+
+\section{Ebola \c{c}a Suffit!}
+
+If we want to point to an exemplary case of what a good and effective response
+to an epidemic looks like, it might be suggested that we consider that of the
+2013-2016 outbreak of the Ebola virus in Guinea, Liberia, and Sierra Leone.
+There is much to commend.
+It was likely one of the largest collaborative efforts of the international
+community with organizations spanning national governments (e.g. Canada, the
+United States, and affected African countries); government agencies (e.g. PHAC,
+NIH, and CDC); non-governmental organizations (e.g. M\'{e}dicins San 
+Fronti\`{e}res); global public health entities (e.g. WHO, GAVI, and the Wellcome
+trust); universities (e.g. University of Geneva and Dalhousie University); and
+private sector companies (e.g. NewLink Genetics, GlaxoSmithKline, and Merck).
+This culminated in a phase 2 trial in Guinea that was widely reported to be
+100\% effective.\footcite{NYT "New Ebola Vaccine gives 100 percent protection}
+As a result, a powerful prophylaxis was distributed to those at most risk
+protecting them from a disease with an average mortality rate of 50\%.
+Surely this represents a shining example of what can happen wen humankind comes
+together to accomplish good.
+
+Perhaps.
+
+It is also worth noting that the rVSV-ZEBOV vaccine was still experimental and
+distributed under the pretense of a phase 2 trial seeking to determine the yet
+unknown efficacy of the vaccine.
+This was not without moral controversy.
+It was decided, for example, to hold phase 1 safety trials in first world
+countries to preempt misgivings that vulnerable Africans were being exploited as
+test subjects by the West.
+More relevantly for us, the decision making for the design of the various
+concurrent trials during the outbreak was subject to contentious moral debate.
+
+For some, the best way forward was to hold a trial with a randomized control
+arm.
+Notably, this was advocated by representatives from GlaxoSmithKline (GSK) whose
+vaccine candidate was in consideration with NewLink Genetics (whose rVSV-ZEBOV
+vaccine would be later licensed to Merck).
+They proposed that half of the participants be randomly selected to be given
+some other, approved vaccine, thereby serving as an active control arm.\footcite
+{Science "tough choices ahead in Ebola vaccine trials"}
+% ^ this needs to be rephrased
+This was suggested under the shadow of the WHO announcement on September 5 that
+the urgency of the crisis required accelerating the process.
+% rework to cite "Statement on the WHO Consultation on potential Ebola therapies
+% and vaccines" and "WHO issues roadmap to scale up international response to
+% the Ebola outbreak in west Africa"
+The vaccines would move from phase 1 trials to phase 2 as soon as feasible---a
+process that typically takes several years---and phase 3 trials would be
+effectively dropped.
+% "at this meeting it was agreed that Phase 1 trials would launch and that
+% before Phase 1 trials were completed, efficacy trials in the affected
+% countries would be initiated. This decision made it difficult for
+% manufacturers, as they were unsure which dose would be required for Phase 2
+% trails (Mohammadi, 2015)
+% ^ look this up and integrate
+As WHO assistant director-general Marie Paul Kierny
+observed, \textquote{The attendees had a strong sense that there was no time to
+wait...}\footcite{Science "tough choices ahead in Ebola
+vaccine trials"}
+Thus, a randomized control trial was attractive to some as it was seen as the
+fastest and most statistically sound way to determine whether the vaccine
+candidates work.
+It was hoped this would hasten a wider deployment and thereby save more lives.
+Additionally, there were many unknowns such as infection risk which was
+estimated at 10\% per year spent in contact with Ebola patients. It was
+estimated with that figure that, in a randomized controlled trial of 5000, if
+\textquote{the vaccine works at least 80\% of the time, researchers could be
+  \textquote{absolutely confident} about efficacy after 30 infections and within
+  3 months... A vaccine that had 60\% efficacy could still yield an answer with
+fewer than 60 infections.}\footcite{Science "tough choices ahead in Ebola
+vaccine trials"}
+
+However, not everyone involved were accepting of a randomized control trial.
+As the representative from GSK, Ripley Ballou, commented, \textquote{Going into
+  this meeting, we were told the idea of a controlled trial...was noting going
+to be acceptable.}
+Notably, representatives of M\'{e}dicins San Fronti\`{e}res strongly opposed
+giving participants anything but an Ebola vaccine candidate.
+As they asserted, \textquote{Studies on efficacy in affected countries and more
+  so in at-risk populations should not have a placebo or active control arm as
+this cannot be defended ethically.}\footcite{Science}
+Given the high rate of mortality for those infected, it was deemed inhumane.
+Part of that judgment rested on a calculation that the risk of the unknown
+adverse effects of the experimental vaccines were smaller than the present
+background risk of infection and then death from Ebola.\footcite[p. 114]{NAP}
+Hence, it was a gamble worth taking.
+Simply put a randomized control would entail that some significant portion of
+participants would still be at extreme risk of infection to an often deadly
+disease.
+Moreover, they would be so as a deliberate act of the trial designers.
+% repetitive?
+This withholding of an available intervention was perceived to be morally
+untenable.
+
+A compromise was reached.
+The accepted trial design was a step-wedge scheme.
+Under a step-wedge design, time is leveraged as a control group.
+Rather than have a randomly selected group that is not given the vaccine
+candidate, the injection of the vaccine is instead delayed for a randomly
+selected portion of participants.
+By comparing the infection rates of those already vaccinated and those yet to
+be, it is in theory possible to determine the candidate's efficacy.
+While it was agreed upon that a trial was necessary, and that it did not make
+sense to simply give healthy people an experimental vaccine on a compassionate
+use basis, the step-wedge design was attractive because it entailed
+distributing the vaccine, eventually, to all participants in the study.
+
+However, it posed additional statistical challenges.
+For one, it would be more difficult to determine efficacy because there would be
+less control over confounding factors such as the limited window for the delayed
+group to be at risk, differences in rates of new infections, behaviors, and
+availability of personal protective equipment.
+It also poses a difficulty in determining long term health effects or whether an 
+infection-enhancing immune adverse response might be induced.\footcite[p. 116]
+{NAP}
+For another, a step-wedge design would take longer than a randomized controlled
+trial.
+While each cluster would be observed for the same amount of time, not all
+clusters would take place concurrently.
+As such, the staggered pace of clusters would mean the study would have to take
+place over a lengthy period of time until there were a sufficient number to
+statistically power the study. 
+More over, it was noted that \textquote{the sample size must be inflated for the
+  effect of clustering within rings as the members of a ring share a common
+exposure to the index case and are not statistically independent}\footcite{ebola
+ca suffit ring vaccintation trial consortium, 2015}
+
+
+\section{Equipoise or fiduciary obligation?}
+
+\section{The case for evidentialism in evidence-based medicine}
+
+\section{Conclusion}
+
+\end{document}
