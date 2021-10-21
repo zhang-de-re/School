@@ -2,13 +2,14 @@
 \usepackage[
   letterpaper,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in]
 {geometry}
-\usepackage[backend=biber]{biblatex-chicago}
+\usepackage[backend=biber]{biblatex}
 \usepackage{csquotes}
-%\addbibresource{references.bib}
+\addbibresource{ebola.bib}
 \usepackage{setspace}
 
 \title{Ebola and the Need for an Ethics of Belief}
 \author{Alexander Zhang}
+\date{}
 
 \doublespacing
 
@@ -31,7 +32,7 @@ Of course, we can draw connections to the past like the Anti-Masking League of
 San Francisco that opposed the city's Board of Health's measures to attempt to
 curb the Spanish flu.
 But we should also bear in mind that American physicians were highly resistant
-to germ theory well up to the 1880s.\footcite{Tomes1997}
+to germ theory well up to the 1880s.\footcite{tomes}
 Chicago's project to reverse the flow of the Chicago river into the Mississippi
 to prevent future Cholera outbreaks, rationalized on the grounds of the miasma
 theory of disease, was well within living memory.
@@ -71,7 +72,7 @@ Fronti\`{e}res); global public health entities (e.g. WHO, GAVI, and the Wellcome
 trust); universities (e.g. University of Geneva and Dalhousie University); and
 private sector companies (e.g. NewLink Genetics, GlaxoSmithKline, and Merck).
 This culminated in a Phase II trial in Guinea that was widely reported to be
-100\% effective.\footcite{NYT "New Ebola Vaccine gives 100 percent protection}
+100\% effective.\footcite{NYT}
 As a result, a powerful prophylaxis was distributed to those at most risk
 protecting them from a disease with an average mortality rate of 50\%.
 Surely this represents a shining example of what can happen wen humankind comes
@@ -96,7 +97,7 @@ vaccine candidate was in consideration with NewLink Genetics (whose rVSV-ZEBOV
 vaccine would be later licensed to Merck).
 They proposed that the trial have an active control arm wherein a random half of
 the participants would be given some other, approved vaccine.\footcite
-{Science "tough choices ahead in Ebola vaccine trials"}
+{Science}
 It should be remember that
 This was suggested under the shadow of the WHO announcements in the prior weeks  
 that the urgency of the crisis required accelerating international response.
@@ -104,8 +105,7 @@ The vaccines would move from Phase I trials to Phase II as soon as feasible---a
 process that typically takes several years.
 As WHO assistant director-general Marie Paul Kierny
 observed, \textquote{The attendees had a strong sense that there was no time to
-wait...}\footcite{Science "tough choices ahead in Ebola
-vaccine trials"}
+wait...}\footcite{Science}
 
 Thus, a randomized control trial was attractive to some as it was seen as the
 fastest and most statistically sound way to determine whether the vaccine
@@ -119,8 +119,7 @@ patients, in a randomized controlled trial of 5000,
 if \textquote{the vaccine works at least 80\% of the time, researchers could be
   \textquote{absolutely confident} about efficacy after 30 infections and within
   3 months... A vaccine that had 60\% efficacy could still yield an answer with
-fewer than 60 infections.}\footcite{Science "tough choices ahead in Ebola
-vaccine trials"}
+fewer than 60 infections.}\footcite{Science}
 
 However, not everyone was receptive to a randomized control trial.
 As the representative from GSK, Ripley Ballou, commented, \textquote{Going into
@@ -168,8 +167,8 @@ Moreover, a step-wedge design would take longer than a randomized controlled
 trial.
 It was noted that \textquote{the sample size must be inflated for the
   effect of clustering within rings as the members of a ring share a common
-exposure to the index case and are not statistically independent}\footcite{ebola
-ca suffit ring vaccintation trial consortium, 2015}
+exposure to the index case and are not statistically
+independent}\footcite{consortium}
 Additionally, while each cluster would be observed for the same amount of time, 
 not all clusters would take place concurrently.
 The staggered pace of clusters would mean the study would have to wait
@@ -181,7 +180,7 @@ ring vaccination design.
 It was seen by and large as a success: \textquote{Among all of the
 therapeutic and vaccine trials conducted in West Africa during the outbreak, the
 ring vaccination trial came the closest to fulfilling the hope for a clinical
-trial \textquote{home run}.}\footcite{NAP}
+trial \textquote{home run}.}\footcite[p. 119]{NAP}
 In a ring vaccination scheme, a known case is identified and then contact
 traced.
 Individuals who are socially or geographically connected around them (a ring)
@@ -191,13 +190,13 @@ By all accounts, logistically, this design was effectively executed.
 Such a study would have to rely on the quality of the public health contact
 tracing efforts.
 Cases were identified within 3.9 days and clusters formed around them within 9.7
-days on average.\footcite{HR 2016}
+days on average.\footcite{HR2016}
 The Lancet praised the study: \textquote{That such a trial was even possible is a
   testament not only to the skill of the research teams but also to the
   commitment of communication to defeating an epidemic that has devastated their
   nation. Over 90 percent of the study's staff was from Guinea. Before this
 work, no clinical trial of this scale had ever been performed in the
-country.}\footcite{lancet 2015}
+country.}\footcite{lancet2015}
 
 However, midway through the study, the trial was changed.
 In the interim report, 
@@ -205,12 +204,12 @@ the researchers noted that \textquote{The results of this interim
   analysis indicate that rVSV-ZEBOV might be highly efficacious and safe in
   preventing Ebola virus disease and is most likely effective at the population
   level when delivered during an Ebola outbreak via a ring vaccination
-strategy.}\footcite[p. 857]{HR 2015}
+strategy.}\footcite[p. 857]{HR2015}
 On the basis of this data and the decreasing incidence of new ring-defining
 cases, the Data Safety Management Board concluded it
 \textquote{would be unethical to deny people access to this life-saving
   intervention when the interim analysis showed evidence that rVSV-ZEBOV is both
-safe and efficacious.}\footcite{UF 2015} 
+safe and efficacious.}\footcite{UF} 
 As a result, the delayed-immunization arm was terminated.
 The stepped-wedge design---the compromise intended to ensure both the morality
 and scientific soundness of the trial---was abandoned.
@@ -228,7 +227,7 @@ the analytical method.
 
 The gold standard is the intention-to-treat analysis.
 Typically RCTs are evaluated on the dictum \textquote{once randomized, always
-analyzed}.\footcite{Heenekens et al 1987}
+analyzed}.\footcite{hennekens1987}
 On this metric, every randomized participant is analyzed according to
 assignment.
 It ignores anything that happens after randomization.
@@ -254,7 +253,7 @@ In other words, the probability that an observed difference could have occurred
 by random chance.
 Lower \textit{p}-values indicated greater statistical significance.
 The \textit{p}-value of the Ebola \c{c}a Suffit trial on an ITT analysis was
-0.344.\footcite{HR 2016}
+0.344.\footcite{HR2016}
 Conventionally, only \textit{p}-values of 0.05 are considered sufficient for
 acceptable statistical significance.
 
@@ -264,7 +263,7 @@ On an on-treatment analysis where only those in the immediate vaccination
 clusters who were actually vaccinated and the delayed vaccination clusters were
 compared, the
 trial showed efficacy of 100\% with a 95\% confidence interval of
-69--100\%.\footcite{HR 2016}
+69--100\%.\footcite{HR2016}
 However, on this sort of analysis, we would expect a bias towards vaccine
 efficacy because it is no longer protected by randomization.
 
@@ -344,18 +343,18 @@ The first is perhaps best represented by the characterization that \textquote{if
   better than another therapy (B), he cannot participate in a comparative trial
   of Therapy A versus Therapy B. Ethically, the clinician is obligated to give
 Therapy A to each new patient with a need for one of these
-therapies.}\footcite{Shaw and Chalmers 1970}
+therapies.}\footcite{shaw1970}
 If this is the case, then clinical equipoise is the inverse: if a clinician does
 not know or have good reason to believe, they are not obligates to give that
 therapy to each new patient with a need.
 This puts it squarely in the mind and doxastic attitudes of the individual.
 It might be an equal confidence on the basis
 of the available data or an absence of treatment preference all things
-considered.\footcite{Fried 1974}
+considered.\footcite{fried1974}
 
 This conception was criticized by Benjamin Freedman as psychologically
-unfeasible as it was \textquote{balanced on a knife's edge.}\footcite{Freedman,
-1987, 143}
+unfeasible as it was \textquote{balanced on a knife's edge.}\footcite[p. 143]
+{freedman1987}
 Since any new and relevant evidence ought to, rationally, update our credences,
 such mental state would be too unstable to run a clinical trial.
 Freedman suggested an alternative conception that pegged equipoise to the
@@ -363,7 +362,7 @@ doxastic attitudes of the medical community.
 Under such a conception, clinical equipoise occurs, \textquote{if there is
   genuine uncertainty within the expert medical community---not necessarily on
 the part of the individual investigator about the preferred
-treatment.}\footcite{freedman 1987}
+treatment.}\footcite{freedman1987}
 This is taken to mean, in practice, that this state of genuine uncertainty is
 identified via the consensus, or lack thereof, of the medical community.
 Equipoise, then, appears to be socially constructed by the medical community in
@@ -372,7 +371,7 @@ is "Art".
 We can see this in Fred Gifford's criticisms of Freedman.
 As he argued, randomized clinical trials take so long that incoming interim
 results are likely to change the medical communities opinion before the study is
-completed.\footcite{Gifford 1995 129}
+completed.\footcite[p. 129]{gifford1995}
 In which case, it is at least a common interpretation that clinical equipoise
 embodied in the medical community rests upon opinions and consensus.
 
@@ -468,16 +467,16 @@ been in the past.
 
 Suppose, then, the ship goes down.
 As Clifford observes, \textquote{What should we say of him? Surely this, that he
-was verily guilty of the death of theses men.}\footcite{Clifford 1877 339}
+was verily guilty of the death of theses men.}\footcite[p. 339]{clifford}
 The true sincerity of belief is not relevant \textquote{because \textit{he had
-    no right to believe on such evidence as was before him.}}\footcite{Clifford
-  340}
+  no right to believe on such evidence as was before him.}}\footcite[p. 340]
+  {clifford}
 Suppose, on the other hand that the ship happily makes it to its destination
 safe and sound.
 Again, Clifford asserts, \textquote{Will that diminish the guilt of her owner?
   Not one jot. When an action is once done, it is right or wrong forever; no
 accidental failure of its good or evil fruits can possibly alter
-that.}\footcite{340}
+that.}\footcite[p. 340]{clifford}
 % double check spelling of forever.
 This is because, regardless of the outcomes, the shipowner was in a state of
 objective uncertainty and subjected others to bear the risks without
@@ -511,7 +510,7 @@ the public consciousness that the vaccine was already found to be 100\%
 effective.
 As Clifford noted, we have a duty to guard from beliefs accepted on insufficient
 evidence \textquote{as from a pestilence, which may shortly master our own body
-and then spread to the rest of the town.}\footcite{344}
+and then spread to the rest of the town.}\footcite[344]{clifford}
 In other words, we have positive and negative moral duties given that we are
 part of a shared epistemic community.
 As Miranda Fricker argues, we have a negative moral duty not to commit epistemic
@@ -531,8 +530,8 @@ necessary, for the clinician to merely act out of good will and to be sincere in
 their judgment.
 \textquote{The goodness and greatness of a man do not justify us in accepting a
   belief upon the warrant of his authority, unless there are reasonable grounds
-for supposing that he knew the truth of what he was saying.}\footcite{clifford
-353}
+  for supposing that he knew the truth of what he was saying.}\footcite[p. 353]
+  {clifford}
 For genuine trust to be instantiated, as the clinician asserts to the patient a
 diagnosis and prognosis, the clinician needs to have access to the relevant
 empirical evidence that is necessary for knowledge, or justified true belief.
@@ -547,5 +546,6 @@ But a relationship of care cannot be grounded on mere faith.
 As such, health care has a moral obligation to seek the empirical justifications
 for its assertions to \textquote{know}.
 
+\printbibliography
 
 \end{document}
