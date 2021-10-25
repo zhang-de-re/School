@@ -2,14 +2,14 @@
 ###### Equipoise or Evidentialism: Ethics of Uncertainty in RCTs
 ###### Alexander Zhang
 
-The West African Ebola virus epidemic is regarded as a triumph of modern science
-and international cooperation.
-It is hailed by some as an exemplary success story as the international
-collaboration of organizations spanning national governments (e.g. Canada, the
+The response to the West African Ebola virus epidemic is hailed by some as a
+triumph of modern science and international cooperation.
+It is a success story of international
+collaboration as organizations spanning national governments (e.g. Canada, the
 United states, and impacted African countries); government agencies (e.g. PHAC,
 NIH, and CDC); non-governmental organizations (e.g. Medicins San Frontieres);
-global public health entites (e.g. WHO, GAVI, and the Wellcome trust);
-universities (e.g. University of Geneva and DDalhousie University); and private
+global public health entities (e.g. WHO, GAVI, and the Wellcome trust);
+universities (e.g. University of Geneva and Dalhousie University); and private
 sector companies (such as NewLink Genetics, GSK, and Merck) resulted in the
 rapid distribution of a vaccine widely reported to give 100 percent protection.
 Surely this represents a shining achievement of humankind coming together
@@ -20,38 +20,35 @@ Perhaps.
 It is also worth noting that Merck's rVSV-ZEBOV vaccine was still experimental
 and distributed under Phase II trials for efficacy.
 This was not without moral controversy.
-It was decided to hold Phase I trials for safety in first world countries to
-preempt misgivings that vulnerable Africans were being exploited as guinea pigs.
-Relatedly, the trial design in which the vaccines would  be distributed in the
-field was subject to much contention.
+The trial design for the vaccine candidate field was contentious.
 Some advocated for the tried-and-true randomized placebo controlled trial as the
 most rapid and statistically sound way to determine whether the vaccine works.
-Others vehemetly protested that a controlled trial was not going to be
-acceptable since the risks were so high giing particpants naything other than
-the experimental vaccine would be inhumane.
+Others protested that a controlled trial was not 
+acceptable.
+Given the risks were so high, it was argued that giving participants anything 
+other than the experimental vaccine would be inhumane.
 The compromise was a step-wedged design where a delay in vaccination for some
 was used as a "control": less statistically sound but all participants would be
-given the vaccine.
+given the vaccine eventually.
 It is worth noting that in one trial, on the strength of interim results, the
 trial design was changed to give all participants the vaccine immediately.
-It is also worth noting that the rVSV-ZEBOV vaccine was only granted in 2019
-after the support of additional trials in the DEmocratic Republic of Congo
+It is also worth noting that the rVSV-ZEBOV vaccine was only approved in 2019
+after the support of additional trials in the Democratic Republic of Congo
 outbreak of 2018-2020.
 
-It is difficult to say, in general, that this effort was not a success.
+It is difficult to say, broadly speaking, that this effort was not a success.
 However, given the controversy of the trial design and later criticism of the
-validity of the study results, its roth revisiting the ethical dilemma raised in
-that WHo meeting in 2014.
-When is it ever ethical to not give those whoe health is at risk a medical
-intervention?
-This is troubling for medical research given that the randomized control trial
-in the gold standard for the demonstration of efficacy and safety nessasary for
-regulatory approval and licensing.
-After all, in the best case scenario for the researcher, a control entails that,
+validity of the study results, its worth revisiting the ethical dilemma.
+When is it ever ethically permitted to not give those whose health is at risk a 
+medical intervention?
+This is a troubling issue for medical research given that the randomized control 
+trial is the gold standard for the demonstration of efficacy and safety
+necessary for regulatory approval and licensing.
+After all, a control entails that,
 if one course of treatment was better than the alternatives, some portion of the
 participants were not given the best intervention available.
-What should we make of this ethical dilemma between the duty to care for the
-sick and the necessary requirements involved to create new and better
+What should we make of the competing considerations between the duty to care for 
+the sick and the scientific process involved in creating new and better 
 treatments?
 
 One established response is the principle of clinical equipoise which provides
@@ -66,11 +63,14 @@ all options equal weightiness, it cannot be intentional because they do not
 know.
 
 There are some common objections to the concept of clinical equipoise.
-One is that it goes counter to the fiduciary responsiblity of the clinician to
-excercise their judgment to serve the patient's best interests since it
-ultimately results instead in the treatement decion being left to
-randomizization.
-Another is that this is a psychologically dubious tightrope to walk-especially
+One is that it goes counter to the fiduciary responsibility of the clinician to
+exercise their judgment in serving the patient's best interests.
+After all, randomization results in the treatment decision being taken out of
+the hands of the clinician and being left to randomization.
+Another objection argues equipoise is unfeasible since it depends upon a 
+psychologically dubious tightrope to walk.
+
+-especially
 given this state of balance must appartenly be maintained even as interim
 results come in.
 In response, it has been suggested that equipoise instead be defined by the
