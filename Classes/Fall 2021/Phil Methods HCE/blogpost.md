@@ -69,72 +69,70 @@ After all, randomization results in the treatment decision being taken out of
 the hands of the clinician and being left to randomization.
 Another objection argues equipoise is unfeasible since it depends upon a 
 psychologically dubious tightrope to walk.
-
--especially
-given this state of balance must appartenly be maintained even as interim
-results come in.
+If any new evidence becomes apparent, then the rational researcher must update
+their credences shifting away from a strictly equal weighting.
 In response, it has been suggested that equipoise instead be defined by the
-consensus, or lack therof, of the medical community at large.
+consensus, or lack thereof, of the medical community at large.
 In this way it is moved from the unstable subjective psychological state of the
 researcher to a more stable socially-constructed one of disagreement.
 
-To my mind, however, neither the notion of clincial equipoise nor the objections
-to it are satistfying.
-I believe there is a moral framework under which some RCTs are permissable and ,
-moreover, tha we have a suty to conduct them because of the care and fiduciary
+To my mind, however, neither the notion of clinical equipoise nor the objections
+to it are satisfying.
+I believe there is a moral framework under which some RCTs are permissible and,
+moreover, we have a duty to conduct them because of the care and fiduciary
 obligations of the clinician-patient relationship.
-Such a principle emerges out of the epistemology of the problem.
-The relevant ueathure is the objective uncertainty rearding efficacy and safety
-of which a tate of equipoise is not necessary.
+This principle emerges out of the epistemology of the problem.
+The relevant feature is the objective uncertainty regarding efficacy and safety.
+However, a state of equipoise underdetermines this epistemologically.
 We can see this in the Ebola vaccine trials where the involved parties believed
-it to be efficacious befor eth necessary empirical rpocess to know that is the
+it to be efficacious before the necessary empirical process to know that is the
 case was completed.
-If we attend to the distinction between the doxastic attitued of belief and
-knowledge, then it becomes clear that clinical equipoise is epistemollogically
+If we attend to the distinction between the doxastic attitude of belief and
+knowledge, then it becomes clear that clinical equipoise is epistemologically
 misguided.
 
-What is morally relevant isn't our confidence but tha we do not know or have
-some justfied belief sufficiently close to knowledge.
-In this state of uncertiainty where ther are such hight stakes associated with
+What is morally relevant isn't our confidence but the we do not know or have
+some justified belief sufficiently close to knowledge.
+In this state of uncertainty where there are such high stakes associated with
 what we assert to "know", we ought to be evidentialist.
-For one thinkg, as William Clifford observes, the sincerity of our belief and
+For one thing, as William Clifford observes, the sincerity of our belief and
 the actual outcomes are not morally relevant if we have put people in peril
-because we have not done our due epistemic dilligence.
+because we have not done our due epistemic diligence.
 As he argues "The question of right or wrong has to do with the origin of his
 beliefs, not the matter of it; not what it was, but how he got it; not whether
 it turned out to be true or false, but whether he had a right to believe on such
 evidence as was before him."
-That is to say, that we have a moral, no just an intellectual, duty of inquiry
+That is to say, that we have a moral, not just an intellectual, duty of inquiry
 beyond our prior sincere and comfortable convictions.
-What it is toknow is distant from what it is to merely believe.
+What it is to know is distinct from what it is to merely believe.
 Classically, knowledge is defined in terms of justified true belief:
 something over and above simply a belief where we are just subjectively
 confident in some proposition.
 The problem with equipoise becomes clear.
 The fact of uncertainty, that we do not have knowledge, is dependent on the lack
-of justification, not the subjective feelting that we "know".
-I don't mean just the risk of life and deathe surrounding unknowns in
-healthcare, although tthat too, but the very foundations of the relationship of
+of justification, not the subjective feeling that we "know".
+I don't mean just the risk of life and death surrounding unknowns in
+healthcare but also the very foundations of the relationship of
 care between clinician and patient.
 
-A the  root of a caring relationship there must be trust.
+At the root of a caring relationship there must be trust.
 Again, many of the criticisms levied against clinical equipoise argue that RCTs
 undermine the fiduciary objections clinicians have to patients.
 But what is it to trust?
 Again, Clifford presents a relevant point.
-Trust, particularly in the authortiy of thosse asserting to know, is not just a
+Trust, particularly in the authority of those asserting to know, is not just a
 question of the moral character or good will of a person.
-THere is also the epistemic question of whether they can know what they claim to
-know or are simply expressiong their sincere belief in what they think they
+There is also the epistemic question of whether they can know what they claim to
+know or are simply expressing their sincere belief in what they think they
 know.
-Without good reason that clinicians are not just excercising their judgement in
-the best interests of the patient but also that their judgment is grounded on
+As such, it is necessary that  clinicians are not just exercising their judgment 
+in the best interests of the patient but also that their judgment is grounded on
 knowledge.
-However, if that knowledge in fact depends ont he empirical evidence obtained
-from RCTs, then curtailing those mechanism  the necessary epishic factor in
-for trust between the clinicain and the patient to exist.
-As such, we have a duty to inquire in part because it is neccesary for turst,
+However, if that knowledge in fact depends on the empirical evidence obtained
+from RCTs, then curtailing those mechanism the necessary epistemic factor in
+for trust between the clinician and the patient to exist.
+As such, we have a duty to inquire in part because it is necessary for trust,
 and therefore care
-As such, we haev a moral as well as an intellectual duty to inquire when we
-tface objective unceratinty.
-We ought to be evidentialists.
+As such, we have a moral as well as an intellectual duty to inquire when we
+face objective uncertainty.
+We ought to be evidentialist.
