@@ -181,11 +181,84 @@ Topic: In considering the act of enrolment as both a promissory act and a social
     - do promiser have the moral authority to offer the right in question
     - do promisees have the moral authority to accept the rights offered
     - do both parties meet the fidelity conditions
-  - balances individual autonomy and paternalism
-  - individuals have the authority to exercise their right at their discretion
-    - this includes moral authority to choose not to exercise them or to transfer them
-      - either case, however, is limited by moral consideration on limits to personal autonomy
-        - e.g. exercise of right limited by harm prinicple.
-            - moreover, do not have the moral authority to transfer or waive all rights
-              - some are inalienable
-- in which case,
+- balances individual autonomy and paternalism
+- individuals have the authority to exercise their right at their discretion
+  - this includes moral authority to choose not to exercise them or to transfer them
+    - either case, however, is limited by moral consideration on limits to personal autonomy
+      - e.g. exercise of right limited by harm prinicple.
+          - moreover, do not have the moral authority to transfer or waive all rights
+            - some are inalienable
+- in which case, enrolment of participants is not permissible in the case they are required to offer a right they do not have the moral authortiy to offer
+  - such a promise would be invalid
+    - it is unlikely that the status of research participant grants any additional moral authority
+      - limited frm undermining basis of own personal autonomy at the very least
+        - additionally, plausibly limited from fowerseeable welfare costs or ex ante irrationallity if the magnitude or likelihood of risk is too high
+  - this accunt captures concerns of personal autonomy
+    - moral authority emerges in virtue of being autonomous, rational beings
+    - additionally, limited by same nature (cannot undermine basis of own autonomy)
+      - not constrained in virtue of external factors like good choice or bad choice
+  - more significantly, the moral power to offer this promise does not depend on whether the promiser has or is in proximity to the medical condition being studied
+    - unclear why a medical condition would give some special moral power
+      - assuming fidelity conditions, then, such promises would not be invalid on that consideration alone
+        - it cannot be risk, since in most cases rights are waived not transferred
+          - participants can, presumalby, exit at any time baring practical limitations - they are compelled
+            - this is unlike the mercenaries case because it does not imply researchers cannot accept promise
+              - no great risk comparable to censequences of war. only delay or messy data.
+- conversely, as a promise must be within the authority of both promiser and promisee, personal autonomy is balanced against paternalist limitations of what researchers have the moral power to accept
+  - to put another way, what they do not have the authority to accept and permit
+    - limits personal autonomy insofar as there are right ovre which an individual has discretion but someone else cannot
+      - "a promise that contains no invalid offer would still be invalid if the promisee lacks the moral power to accept it" (cordelli 7)
+        - confer a kind of decisional authority that is qfalitatively problematic which the receiver should reject
+          - excessive power over: promisee takes on the role of decider about sensitive issues that, if made by someone else, would seriously compromise the promiser's sense of self or their moral status as a self-determining agent
+  - in which case, even if the participant had the moral authority over the rights of the offer, researches cannot validly accept if it represents accepting discretionary pwoer that might seriously compromise the participant's sense of self or their moral tstatus as a self-determining agent
+- note that in Jonas's terms this represents a limitation on "conscription"
+  - both, ostensibly, are grounded out of respect for the moral status of the participant
+    - however, the promissory account gives us explanatory power over mere appeal
+      - we can, then, evaluate whether constrains on "conscription" are as tight as Jonas suggests
+- It appears there are two main concerns on Jonas regarding enrolment
+- (footnote: justice anr felicity constains assumed to handle others)
+- one particular concern might be whether researchers have the moral power to accept discretionary right to care
+  - in other words, whether a research method like randomization are invalid grouns for a promise because they alienate something like an inalienable right to personalized care
+    - supposing that justice conditions pertain, it is unclear that this would be an invalid promise unless fidelity conditions do not pertain
+      - first, on the assumption of uncertainty and possiblity (presumed under justice conditions)
+        - unclear why personalization transcends our moral authortiy since in such cases personalied care may be personalized but not care
+          - within the remit to protect bases of autonomy and welfare to make evident relevant facts regarding care
+      - second, on the premise that personalization is some sacred ground of the relationship between clinician and patient
+        - theraputic misconception - researchers not doctors
+          - implication, promissory misconception - error in identifying promisee
+            - if it the case such a promise cannot be made with a doctor, the case would have to be made cannot be made with a researcher as well
+              - while some participants may have a misconception - and arguably not making valid promises because they do not meet fidelity conditions
+                - another thing to suppse that, when fideltiy conditions are met, participants and researchers lack the moral authority (contra jonas 238) (what the hell does that mean?)
+- another concern is whether researchers have the moral authorty to validly accept promises from particpants for research unrelated to their medical condition
+  - do researchers have the moral authority to accept an offer to bear the risks and burdens of just research?
+    - jfonas gratious progress argument
+      - however not relevant for two reasons
+        - one, under justice conditions, truly gratutious research not allowed
+          - arguably just, then a duty to perform
+        - more signficanty, however, is whether researchers have the moral authority to deny felicitious offers merely on condition of medical condition alone if not practically relevant
+          - principle of identity and human dignity
+            - discretionary right to "good will"
+              - unlear, first, why medical condition is a necessary component of indentification or a "good will"
+                - not relevant to instatiate fidelity of deferente
+                  - assuming fidelity conditions are met, do researchers have discretionary moral authority to discrinate who may be permitted ot exercise good will on the basis of medical condition alone when not otherwise relevant?
+                    - contradiction in Jonas (rather, ablism)
+                      - not outside moral power of researchers to accept acts of charity and good will service
+- contra jonas 242
+
+- with this promissory account of participant enrolment, Jonas' dilemma is resolved
+  - bove reason, the moral horn - that research is morally gratutious - is defeased by stipulations of justice and nongratutiousness of permitting virtuous acts
+  - additionally, the social horn - that conesent should be waived by the appela to the common good - is also defeased by recognizing the enrolment of a participant is a promise between particpant and researcher and not the social contract
+  - it is unclear why we should conceptualize medical research in terms of the social contract just because there is some conception of a common good or public interest
+    - under a social contract framework, there is a presumption of a right and corresponding obligation simply in virtuer of being a political memeber
+      - if that were the case, then Jonas would be right that informed consent would be superflous to the implicit or explicit consent to political memebership
+        - however a recognition of a common good or public interest merely entails a recognition of existing needs
+          - does not imply explicit or somehow implicit terms of the social contract
+            - moreover, the relevant administrative-bureacratic structures involved in fidelity by deference are often private - outside the social contract
+              - there are, therefore, no preexisting rights or obligations to participate in medical research
+                - informed consent is indispensible insofar as it is instrumental in demonstrating a valid promissory act and resultant social+moral transformation
+
+###### Section 6: Conclusion
+
+- summary
+- caveat: laid out conceptual foundations - how it is operationalized in term of the relevant conditions for the administrative-bureacratic and juridical institutions, demonstrative acts like informed consent, judgement of justce and fidelity conditions, are left for later work
+- i don't know make it sound like it works
